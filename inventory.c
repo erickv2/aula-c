@@ -19,7 +19,7 @@ int main(){
     double totalValueA;
     double totalValueB;
 
-    int resultA, resultB;
+    int resultA, resultB;   
 
     //show information
 
